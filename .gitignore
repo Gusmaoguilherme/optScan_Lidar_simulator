@@ -1,0 +1,17 @@
+[Bb]uild/
+.vs/
+
+
+##### optScan specific
+
+# Allow commit of .obj meshes
+!samples/*.obj
+
+# Ignore cloud point output directory
+/output
+
+imgui.ini
+
+mergeVertices/data/
+mergeVertices/install/
+samples/

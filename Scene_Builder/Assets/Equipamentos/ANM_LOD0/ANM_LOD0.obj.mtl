@@ -1,0 +1,30 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl Cinzaa
+Kd 0.415686 0.415686 0.415686
+Ka 0.415686 0.415686 0.415686
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 2
+illum 2
+
+newmtl vermelhow
+Kd 0.745098 0.184314 0.184314
+Ka 0.745098 0.184314 0.184314
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 2
+illum 2
+
+newmtl Amarelo
+Kd 1 0.701961 0.0588235
+Ka 1 0.701961 0.0588235
+Ks 0 0 0
+Ke 0 0 0
+d 1
+Ns 2
+illum 2
+
